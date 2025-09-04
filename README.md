@@ -20,7 +20,6 @@
 I'm a **Linux Systems Developer** and **Cybersecurity Enthusiast** with a passion for building secure, efficient, and robust open-source solutions. My core focus lies in kernel-level development, system hardening, and network security. I believe in the power of code to protect and empower users in the digital world.
 
 - 🔭 I’m currently working on a **custom IDS (Intrusion Detection System) for embedded Linux devices**.
-- 🌱 I’m currently learning **eBPF for advanced system tracing and security monitoring**.
 - 👯 I’m looking to collaborate on **open-source security tools or Linux kernel modules**.
 - 🤔 I’m looking for help with **advanced reverse engineering techniques**.
 - 💬 Ask me about **Linux internals, container security (Docker/Kubernetes), or ethical hacking**.
